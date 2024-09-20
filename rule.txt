@@ -1,0 +1,3 @@
+marital_status, agent decline
+education, agent decline
+occupation, agent decline
