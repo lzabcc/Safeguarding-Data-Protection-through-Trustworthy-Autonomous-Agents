@@ -46,14 +46,21 @@ This dissertation concludes that the implementation of autonomous agents in a si
 
 
 ![image](https://github.com/user-attachments/assets/47df844e-fbec-4262-b1bf-a858b55ff9b2)
+
 UI Design Drawing
 
+
 ![image](https://github.com/user-attachments/assets/1e502db6-121a-4816-9cd9-f5837c9e19a7)
+
 Flow chart
 
+
 ![image](https://github.com/user-attachments/assets/e9670b98-9448-4569-9f37-2c567c862779)
+
 Overall block diagram of the system
 
+
 ![image](https://github.com/user-attachments/assets/a7e0f86d-7ab1-4ccf-b03a-25af2667d4d7)
+
 Mcapl system judgements
 
